@@ -5,7 +5,8 @@
     "define": {
         "keymap": {
             "\\": "set-input-mode-katakana",
-            "l": "set-input-mode-latin"
+            "l": "set-input-mode-latin",
+            "L": "set-input-mode-wide-latin"
         }
     }
 }
