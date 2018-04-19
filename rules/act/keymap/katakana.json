@@ -4,7 +4,9 @@
     ],
     "define": {
         "keymap": {
-            "\\": "set-input-mode-hiragana"
+            "\\": "set-input-mode-hiragana",
+            "l": "set-input-mode-latin",
+            "L": "set-input-mode-wide-latin"
         }
     }
 }
