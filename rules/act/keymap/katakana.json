@@ -8,6 +8,7 @@
             "C-\\": "set-input-mode-hankaku-katakana",
             "l": "set-input-mode-latin",
             "L": "set-input-mode-wide-latin",
+            "C-j": "commit",
             "\"": "upper-'"
         }
     }
